@@ -1,0 +1,2 @@
+mean_overlapping_bboxes,class_acc,loss_rpn_cls,loss_rpn_regr,loss_class_cls,loss_class_regr,curr_loss,elapsed_time,mAP
+8.182,0.763,0.275,0.085,0.542,0.29,1.191,10.993,0
