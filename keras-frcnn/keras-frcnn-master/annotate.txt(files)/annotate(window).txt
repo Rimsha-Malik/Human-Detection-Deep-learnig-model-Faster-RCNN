@@ -1,0 +1,1 @@
+C:\\Users\\DELL\\keras-frcnn\\keras-frcnn-master\\train_images\\img (358).jpg,human,30,800,244,1194
