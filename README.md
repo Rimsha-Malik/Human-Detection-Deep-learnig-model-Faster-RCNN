@@ -1,4 +1,4 @@
-# Human-Detection-From-fashion-shoots-Deep-learnig-model-Faster-RCNN-
+# Human-Detection-Deep-learnig-model-Faster-RCNN-
 This is object detection project in which we detect a model(human) from images of a brand fashion shoots.The objective of this project is get human from image which is later on passed to other models for further processing.  
 
 This code is executed on colab but you can execute it on your machine as well(windows and linux both).All you have to do is to change the format of annotate.txt.Linux and windows format are also provide in keras-frcnn\keras-frcnn-master\annotate.txt(files) folder.you have to change the file name as annotate.txt before running a model on windows or linux.
